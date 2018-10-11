@@ -14,8 +14,9 @@
         }
     h2{
         font-family:微软雅黑;
-        font-size: 20px;
+        font-size: 30px;
         color: brown;
+        text-align: center;
         }
     </style> 
 </head>
@@ -42,15 +43,16 @@
     ---------------------------------------------------------------------------------------------------------
     <section>
     <h2>信号与系统:</h2></div>
-    <span class="orange">信号与系统是大学本科层次电子信息类的专业课，本课程是计算机科学与技术、信息与通信工程、
+    <span class="orange"><h2>信号与系统是大学本科层次电子信息类的专业课，本课程是计算机科学与技术、信息与通信工程、
       <br>
       电子科学与技术、光学工程、仪器科学与技术、电气工程、控制科学与工程、测绘科学与技术
-      等国家一级学科在大学本科阶段的专业必修课。</span>
+      等国家一级学科在大学本科阶段的专业必修课。</h2></span>
     <br>
       <img id="imgPicture" src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=4536d53b68061d95694b3f6a1a9d61b4/e4dde71190ef76c64bd857289b16fdfaaf5167af.jpg" onload="imageResize()" style="visibility: visible; display: inline-block; width: 400px; height: 500px; margin-top: 66.5px;" url="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=4536d53b68061d95694b3f6a1a9d61b4/e4dde71190ef76c64bd857289b16fdfaaf5167af.jpg">
     </section>
     ---------------------------------------------------------------------------------------------------------
-    ---------------------------------------------------------------------------------------------------------  
+    ---------------------------------------------------------------------------------------------------------
+
 </div>
 </body>
 </html>
