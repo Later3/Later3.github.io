@@ -8,12 +8,12 @@
 <style>
     h1{
             font-family: 微软雅黑;
-            font-size: 40em;
+            font-size: 40px;
             text-align:center;
         }
     h2{
         font-family:微软雅黑;
-        font-size: 20em;
+        font-size: 20px;
         color: brown;
         }
     </style> 
